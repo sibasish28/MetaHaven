@@ -19,7 +19,7 @@ MetaHaven works on all PC browsers (mobile browsers are currently not supported)
 - Multifunctional Rooms
 - Text Message Chat
 - Custom/Private Rooms
-- Embedded Whiteboards(iframe embed of [WBO](https://github.com/lovasoa/whitebophir))
+- Embedded Whiteboards (iframe embed of [WBO](https://github.com/lovasoa/whitebophir))
 
 ## Controls
 
