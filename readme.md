@@ -1,8 +1,8 @@
 # MetaHaven
 
-An immersive virtual office 
+An immersive virtual office .
 
-MetaHaven works on all PC browsers (mobile browsers are currently not supported)
+MetaHaven works on all PC browsers (mobile browsers are currently not supported).
 
 ## Built with
 
@@ -14,12 +14,12 @@ MetaHaven works on all PC browsers (mobile browsers are currently not supported)
 
 ## Features
 
-- [Proximity Chat]
-- [Flexible Screen Sharing]
-- [Multifunctional Rooms]
-- [Text Message Chat]
-- [Custom/Private Rooms]
-- [Embedded Whiteboards](iframe embed of [WBO](https://github.com/lovasoa/whitebophir))
+- Proximity Chat
+- Flexible Screen Sharing
+- Multifunctional Rooms
+- Text Message Chat
+- Custom/Private Rooms
+- Embedded Whiteboards(iframe embed of [WBO](https://github.com/lovasoa/whitebophir))
 
 ## Controls
 
